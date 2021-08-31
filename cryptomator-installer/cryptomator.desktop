@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Cryptomator
+Comment=
+GenericName=
+Exec=/opt/cryptomator/cryptomator.AppImage
+Icon=/opt/cryptomator/cryptomator-logo.svg
+Type=Application
+Categories=Utility;
+Keywords=cryptomator;
