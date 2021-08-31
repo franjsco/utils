@@ -1,9 +1,10 @@
 [Desktop Entry]
 Name=Cryptomator
-Comment=
-GenericName=
+Comment=Cryptomator
 Exec=/opt/cryptomator/cryptomator.AppImage
-Icon=/opt/cryptomator/cryptomator-logo.svg
+Terminal=false
 Type=Application
+StartupNotify=true
+Icon=/opt/cryptomator/cryptomator-logo.svg
 Categories=Utility;
 Keywords=cryptomator;
