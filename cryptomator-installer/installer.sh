@@ -4,7 +4,7 @@
 #
 PATH_INSTALL=/opt/cryptomator
 PATH_DESKTOP_ENTRIES=/usr/share/applications
-CRYPTOMATOR_DOWNLOAD_URL=https://github.com/cryptomator/cryptomator/releases/download/1.5.15/cryptomator-1.5.15-x86_64.AppImage
+CRYPTOMATOR_DOWNLOAD_URL=https://github.com/cryptomator/cryptomator/releases/download/1.5.17/cryptomator-1.5.17-x86_64.AppImage
 REPO_INSTALLER_URL=https://raw.githubusercontent.com/franjsco/utils/main/cryptomator-installer/
 
 log() {
